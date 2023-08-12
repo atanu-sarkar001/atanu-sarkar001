@@ -1,8 +1,26 @@
 
-<h1 align="center">Hi 👋, I'm Atanu sarkar</h1>
-<h3 align="center">A front end web developer</h3>
+### Hi there 👋, my name is Atanu sarkar
+#### I am a front end web developer
+![I am a front end web developer](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/366066971_1929289420780486_2766478638861059897_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeFB9bVhIu5ZrYctAcH6Lzag_C81uWpKlM78LzW5akqUzjiQBeSfz6g4EMSqdPY8Ycfv3j1Dx_H8YnnDWmtqvDKM&_nc_ohc=KkjeL0kIBz8AX9wjIIL&_nc_oc=AQlAJ5SDP1ocNNUi9Nw0iebNLp4ApKNqXUjMluZOzGyCC6-91_xGxaAzYKmc22W4ci0&_nc_ht=scontent.fdac80-1.fna&oh=00_AfAQpLs0nafwzYSXyThjZUJlQehKPekw424J38lL-HhPwQ&oe=64DBDCD4)
 
-https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/366066971_1929289420780486_2766478638861059897_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeFB9bVhIu5ZrYctAcH6Lzag_C81uWpKlM78LzW5akqUzjiQBeSfz6g4EMSqdPY8Ycfv3j1Dx_H8YnnDWmtqvDKM&_nc_ohc=KkjeL0kIBz8AX9wjIIL&_nc_oc=AQlAJ5SDP1ocNNUi9Nw0iebNLp4ApKNqXUjMluZOzGyCC6-91_xGxaAzYKmc22W4ci0&_nc_ht=scontent.fdac80-1.fna&oh=00_AfAQpLs0nafwzYSXyThjZUJlQehKPekw424J38lL-HhPwQ&oe=64DBDCD4
+Hi , my name is Atanu sarkar. i'm a front end web developer , i will create web site useing Html,Css,Js and Bootstrap .I'm also expert in Figma to html convertion.
+
+A Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with figma to html and right now i'm learning some technologies like python and django for Backend
+
+Skills:  JS / HTML / CSS / BOOTSTRAP / JQUERY
+
+- 🔭 I’m currently working on Web desing & development 
+- 🌱 I’m currently learning Javascrpit 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about My future plan 
+- 📫 How to reach me: sarkaratanu618@gmail.com 
+- ⚡ Fun fact: i love codeing 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/atanu-sarkar001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100095443154164)  
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu-sarkar001&label=Profile%20views&color=0e75b6&style=flat" alt="atanu-sarkar001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atanu-sarkar001" alt="atanu-sarkar001" /></a> </p>
