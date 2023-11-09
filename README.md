@@ -61,5 +61,5 @@ Skills:  JS / HTML / CSS / BOOTSTRAP / JQUERY
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu-sarkar001&show_icons=true&locale=en" alt="atanu-sarkar001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu-sarkar001&" alt="atanu-sarkar001" /></p>
+
 
